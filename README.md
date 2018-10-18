@@ -1,5 +1,5 @@
 # **Welcome**
-If you eat a genetically modified organism, it'll change your DNA. Cows are the casue of global warming. Oganic food is best for the farmer, consumer, and the enviornment. I am sure that you have heard some of these claims before in the past. The purpose of my blog is to look into popular controversies and claims within the agriculture sector and see if they are accurate. In today's world, fake news and inaccurate information can spread like wildfire, but it is important to do your own research. Each post will explore a new topic in agriculture whether it is genetically modified organisms, pest control, global warming, factory farms, and many other concerns that people have on the agriculture industry. 
+
 
 
 ## Welcome to GitHub Pages
