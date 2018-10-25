@@ -4,3 +4,4 @@ Agricutlure today relies heavily on technology to ensure that production can kee
 
 https://www.nasa.gov/feature/directorates/spacetech/spinoff/john_deere. 
 https://www.robotics.org/blog-article.cfm/Robotics-in-Agriculture-Types-and-Applications/74
+https://agriculture.papemachinery.com/blog/faa-regulations-for-ag-drones
