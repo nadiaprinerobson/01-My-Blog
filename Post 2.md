@@ -10,3 +10,4 @@ https://www.nasa.gov/feature/directorates/spacetech/spinoff/john_deere.
 https://www.robotics.org/blog-article.cfm/Robotics-in-Agriculture-Types-and-Applications/74
 https://agriculture.papemachinery.com/blog/faa-regulations-for-ag-drones
 https://www.therobotreport.com/are-ag-robots-ready-27-companies-profiled/
+https://droneapps.co/price-wars-the-cost-of-drones-planes-and-satellites/
