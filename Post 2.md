@@ -6,6 +6,8 @@ Robots in agriculture is another example of efficiency. Now, don't picture a rob
 
 Agriculture today relies heavily on technology to ensure that production can keep up with the growing demands. This technology is far from the old fashioned tractors and tools used before. Drones and robots are at the forefront of technology that is bringing agriculture into the future.
 
+![Robots helping in the field.](https://www.farmfutures.com/commentary/commentary-robotics-are-transforming-agriculture)
+
 https://www.nasa.gov/feature/directorates/spacetech/spinoff/john_deere. 
 https://www.robotics.org/blog-article.cfm/Robotics-in-Agriculture-Types-and-Applications/74
 https://agriculture.papemachinery.com/blog/faa-regulations-for-ag-drones
